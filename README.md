@@ -9,7 +9,7 @@ Kage to Muon
 
 # My recent experience
 
-I'm a former civil engineer switched to game designer/developer in 2020. This is what I have been doing for the last year:
+I'm a former civil engineer switched to game designer/developer in 2020. This is what I have accomplished the last year:
 
 - Designed and developed 19 small games from a breadth of genres ranging from text adventure to FPS, including 2D, 3D and C# Windows command-line games.
 - Followed over 6 lengthy online courses ranging from developing, to math, to game design.
