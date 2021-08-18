@@ -3,6 +3,8 @@ Escape From Mars
 
 https://user-images.githubusercontent.com/71871620/129720801-bef01d9e-5fb8-4bc0-9a95-e055fbc77fb2.mov
 
+![Beginning Choice Annotations](https://user-images.githubusercontent.com/71871620/129953658-49103841-d40c-49f9-95b9-b9c0fe4f9b92.png)
+
 Kage to Muon
 
 ![Menu_Gameplay](https://user-images.githubusercontent.com/71871620/129698933-cf032096-167e-47ec-b380-885b656877ab.gif)
