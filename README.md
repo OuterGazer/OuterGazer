@@ -7,6 +7,9 @@ Kage to Muon
 
 ![Menu_Gameplay](https://user-images.githubusercontent.com/71871620/129698933-cf032096-167e-47ec-b380-885b656877ab.gif)
 
+![Beginning 4](https://user-images.githubusercontent.com/71871620/129920802-d4dca8b3-5597-46ed-bdaa-1a6b729df60a.png)
+
+
 # My recent experience
 
 I'm a former civil engineer switched to game designer/developer in 2020. This is what I have accomplished the last year:
