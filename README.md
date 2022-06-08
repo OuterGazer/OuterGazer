@@ -29,6 +29,6 @@ I'm a former civil engineer switched to game designer/developer in mid/late 2020
 - Designed and developed 19 small games from a breadth of genres ranging from text adventure to FPS, including 2D, 3D and C# Windows command-line games.
 - Followed over 6 lengthy online courses ranging from developing, to math, to game design.
 - Read (and re-read) over 10 books on game design and development including books such as “Game Design Workshop” from Tracy Fullerton, “Designing Games” from Tynan Sylvester and “Unity in Action” from Joseph Hocking. Weekly read and/or watch articles/videos on game design topics. More books are pending to be read.
-- Wrote different retrospectives with insights on game design on games I have played as well game design documents. They can be seen on
+- Wrote different retrospectives with insights on game design on games I have played as well game design documents.
 
 For further information on my work/experience you can refer to my LinkedIn profile (link on the sidebar) or my pinned projects below.
