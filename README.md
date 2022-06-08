@@ -18,7 +18,8 @@ https://user-images.githubusercontent.com/71871620/172574809-ee045074-b201-47f6-
 
 ## Wizard Cabals Game Design Document
 
-https://github.com/OuterGazer/GameDesign/blob/main/Wizard%20Cabals%20-%20Design%20Document.pdf
+[Wizard Cabals - Design Document.pdf](https://github.com/OuterGazer/OuterGazer/files/8860091/Wizard.Cabals.-.Design.Document.pdf)
+
 
 
 # My recent experience
