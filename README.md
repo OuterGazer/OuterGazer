@@ -18,6 +18,7 @@ https://user-images.githubusercontent.com/71871620/172574809-ee045074-b201-47f6-
 
 ## Wizard Cabals Game Design Document
 
+A short game design document on a game that combines Commandos-like mechanics with a fantasy setting. 
 [Wizard Cabals - Design Document.pdf](https://github.com/OuterGazer/OuterGazer/files/8860091/Wizard.Cabals.-.Design.Document.pdf)
 
 
