@@ -16,6 +16,11 @@ https://user-images.githubusercontent.com/71871620/172571499-0a177e75-c50f-4525-
 https://user-images.githubusercontent.com/71871620/172574809-ee045074-b201-47f6-8d04-90ff283ea804.mp4
 
 
+## Wizard Cabals Game Design Document
+
+https://github.com/OuterGazer/GameDesign/blob/main/Wizard%20Cabals%20-%20Design%20Document.pdf
+
+
 # My recent experience
 
 I'm a former civil engineer switched to game designer/developer in mid/late 2020. This is what I have accomplished since then:
