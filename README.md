@@ -15,6 +15,7 @@ Play it: https://sharemygame.com/@OuterGazer/nightmare-night
 ![Beginning 4](https://user-images.githubusercontent.com/71871620/129920802-d4dca8b3-5597-46ed-bdaa-1a6b729df60a.png)
 
 More info: https://github.com/OuterGazer/Kage-To-Muon#readme
+
 Play it: https://sharemygame.com/@OuterGazer/kage-to-muon
 
 
@@ -23,6 +24,7 @@ Play it: https://sharemygame.com/@OuterGazer/kage-to-muon
 https://user-images.githubusercontent.com/71871620/172574809-ee045074-b201-47f6-8d04-90ff283ea804.mp4
 
 More info: https://github.com/OuterGazer/Juggling-Frenzy#readme
+
 Play it: https://sharemygame.com/@OuterGazer/juggling-frenzy
 
 
