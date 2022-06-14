@@ -1,7 +1,10 @@
 # Some Work Samples
-## Nightmare Night
+## Nightmare Night (Press play low left corner)
 
 https://user-images.githubusercontent.com/71871620/172571499-0a177e75-c50f-4525-8fbe-f51bd880c95d.mp4
+
+More info: https://github.com/OuterGazer/Nightmare-Night#readme
+Play it: https://sharemygame.com/@OuterGazer/nightmare-night
 
 
 ## Kage to Muon
@@ -10,10 +13,16 @@ https://user-images.githubusercontent.com/71871620/172571499-0a177e75-c50f-4525-
 
 ![Beginning 4](https://user-images.githubusercontent.com/71871620/129920802-d4dca8b3-5597-46ed-bdaa-1a6b729df60a.png)
 
+More info: https://github.com/OuterGazer/Kage-To-Muon#readme
+Play it: https://sharemygame.com/@OuterGazer/kage-to-muon
+
 
 ## Juggling Frenzy
 
 https://user-images.githubusercontent.com/71871620/172574809-ee045074-b201-47f6-8d04-90ff283ea804.mp4
+
+More info: https://github.com/OuterGazer/Juggling-Frenzy#readme
+Play it: https://sharemygame.com/@OuterGazer/juggling-frenzy
 
 
 ## Wizard Cabals Game Design Document
