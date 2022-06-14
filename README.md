@@ -31,6 +31,7 @@ Play it: https://sharemygame.com/@OuterGazer/juggling-frenzy
 ## Wizard Cabals Game Design Document
 
 A short game design document on a game that combines Commandos-like mechanics with a fantasy setting.
+
 [Wizard Cabals - Design Document.pdf](https://github.com/OuterGazer/OuterGazer/files/8860091/Wizard.Cabals.-.Design.Document.pdf)
 
 
